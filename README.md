@@ -1,1 +1,3 @@
-# pokemon-Data-Analysis
+I’m excited to share one of my recent projects that I’ve been working on as part of my journey into Data Science. In this project, I focused on analyzing data, performing exploratory data analysis, and building insights using Python and popular data science libraries. This project helped me strengthen my understanding of data preprocessing, visualization, and analytical thinking. I used tools such as Python, Pandas, NumPy, and Matplotlib to work with the dataset and extract meaningful insights. Projects like this are helping me continuously improve my problem-solving skills and deepen my knowledge in Data Science.
+You can check out the full project on my GitHub: (Add your GitHub link here)
+#DataScience #Python #MachineLearning #DataAnalysis #GitHub #LearningJourney
